@@ -131,3 +131,4 @@ while True:
     pygame.display.update()
 
 
+# By ThallysonKodex
